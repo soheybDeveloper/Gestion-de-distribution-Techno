@@ -6,7 +6,7 @@ This application facilitates the distribution process, enabling the seamless del
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX
 - **Backend**: PHP, MySQL
-- **APIs**: (Specify any APIs used)
+
 
 ## Installation
 To set up the environment, follow these steps:

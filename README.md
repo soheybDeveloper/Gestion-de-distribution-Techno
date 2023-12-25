@@ -1,4 +1,4 @@
-# Techno Gestion DE Distribution
+# Techno Gestion Des Distributeurs
 ### An old stupid project
 ## Introduction
 This application facilitates the distribution process, enabling the seamless delivery of education products from the central deposit to various distributed stores. Users can manage stock orders and provide specific product feedback. The company specializes in selling educational items like pens, notebooks, and more.

@@ -87,7 +87,7 @@ access link:\<Your host\>/Proj/admin/login.php
       <img src="Project%20screenshots/SPAMinboxing.PNG" alt="Admin Feedbacks" width="80%">
 
 3. **Product Management**
-    <img src="Project%20screenshots/Our%20product.PNG" alt="Product Management Screenshot" width="80%">
+    <img src="Project%20screenshots/OUR%20product.PNG" alt="Product Management Screenshot" width="80%">
    - **How Admin Manages Products**
 
       <img src="Project%20screenshots/ProductManager.PNG" alt="Product Management Screenshot" width="80%">

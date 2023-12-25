@@ -36,6 +36,59 @@ To set up the environment, follow these steps:
 
 
 ## Screenshots
+
+
+   ### **Admin Dashboard**
+1. **Admin Login**
+
+
+<img src="Project%20screenshots/loginADMIN.PNG" alt="Login Admin Screenshot" width="50%">
+
+access link:\<Your host\>/Proj/admin/login.php
+
+   To access the admin panel, use:
+   - **Username:** AhmedBK
+   - **Password:** Ahmed1270
+
+2. **Admin Manages Feedbacks**
+
+      Admin explores feedbacks 
+
+      <img src="Project%20screenshots/SPAMBOXforAdmin.PNG" alt="Admin Feedbacks" width="80%">
+
+      <img src="Project%20screenshots/SPAMinboxing.PNG" alt="Admin Feedbacks" width="80%">
+
+3. **Product Management**
+   
+    <img src="Project%20screenshots/OUR%20product.PNG" alt="Product Management Screenshot" width="80%">
+    
+   - **How Admin Manages Products**
+
+      <img src="Project%20screenshots/ProductManager.PNG" alt="Product Management Screenshot" width="80%">
+
+      <img src="Project%20screenshots/Product%20information.PNG" alt="Products" width="80%">
+
+4. **User Management CRUD**
+   
+   - **How Admin Manages Users**
+
+
+      - Adding a New User
+
+        <img src="Project%20screenshots/addChef.PNG" alt="Adding User" width="80%">
+
+
+      - Updating User Info
+
+        <img src="Project%20screenshots/editUSER.PNG" alt="Updating User Info" width="80%">
+
+      - Delete user
+        
+        <img src="Project%20screenshots/removeUSER.PNG" alt="Product Management Screenshot" width="80%">
+
+
+
+
 ### User Dashboard
 1. **User Dashboard**
 
@@ -65,48 +118,3 @@ To set up the environment, follow these steps:
       <img src="Project%20screenshots/SPAMchefDEpot.PNG" alt="Feedback Screenshot" width="80%">
 
       <img src="Project%20screenshots/SpamSent.PNG" alt="On Success" width="40%">
-
-### **Feedback Section**
-1. **Admin Dashboard**
-
-
-<img src="Project%20screenshots/loginADMIN.PNG" alt="Login Admin Screenshot" width="50%">
-
-access link:\<Your host\>/Proj/admin/login.php
-
-   To access the admin panel, use:
-   - **Username:** AhmedBK
-   - **Password:** Ahmed1270
-
-2. **Admin Manages Feedbacks**
-
-      Admin explores feedbacks 
-
-      <img src="Project%20screenshots/SPAMBOXforAdmin.PNG" alt="Admin Feedbacks" width="80%">
-
-      <img src="Project%20screenshots/SPAMinboxing.PNG" alt="Admin Feedbacks" width="80%">
-
-3. **Product Management**
-    <img src="Project%20screenshots/OUR%20product.PNG" alt="Product Management Screenshot" width="80%">
-   - **How Admin Manages Products**
-
-      <img src="Project%20screenshots/ProductManager.PNG" alt="Product Management Screenshot" width="80%">
-
-      <img src="Project%20screenshots/Product%20information.PNG" alt="Products" width="80%">
-
-5. **User Management**
-   - **How Admin Manages Users**
-
-
-      - Adding a New User
-
-        <img src="Project%20screenshots/addChef.PNG" alt="Adding User" width="80%">
-
-
-      - Updating User Info
-
-        <img src="Project%20screenshots/editUSER.PNG" alt="Updating User Info" width="80%">
-
-      - Delete user
-        
-        <img src="Project%20screenshots/removeUSER.PNG" alt="Product Management Screenshot" width="80%">

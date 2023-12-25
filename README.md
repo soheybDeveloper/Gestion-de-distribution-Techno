@@ -11,7 +11,7 @@ This application facilitates the distribution process, enabling the seamless del
 ## Installation
 To set up the environment, follow these steps:
 
-1. **Requirements**: Ensure an Apache environment (e.g., XAMPP, WAMP, MAMP) and MySQL server are installed on localhost.
+1. **Requirements**: Ensurecto setup an Apache environment (e.g., XAMPP, WAMP, MAMP) and MySQL server is installed.
 2. **Database Setup**:
    - Import the database named `Proj\DATABASE\pfc.sql` from the Database path. (Provide the path)
     

@@ -87,13 +87,14 @@ access link:\<Your host\>/Proj/admin/login.php
       <img src="Project%20screenshots/SPAMinboxing.PNG" alt="Admin Feedbacks" width="80%">
 
 3. **Product Management**
+    <img src="Project%20screenshots/Our%20product.PNG" alt="Product Management Screenshot" width="80%">
    - **How Admin Manages Products**
 
       <img src="Project%20screenshots/ProductManager.PNG" alt="Product Management Screenshot" width="80%">
 
       <img src="Project%20screenshots/Product%20information.PNG" alt="Products" width="80%">
 
-4. **User Management**
+5. **User Management**
    - **How Admin Manages Users**
 
 
@@ -105,3 +106,7 @@ access link:\<Your host\>/Proj/admin/login.php
       - Updating User Info
 
         <img src="Project%20screenshots/editUSER.PNG" alt="Updating User Info" width="80%">
+
+      - Delete user
+        
+        <img src="Project%20screenshots/removeUSER.PNG" alt="Product Management Screenshot" width="80%">

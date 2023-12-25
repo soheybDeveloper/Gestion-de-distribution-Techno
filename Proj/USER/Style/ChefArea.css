@@ -1,0 +1,116 @@
+
+*{
+
+}
+body{
+    overflow: hidden;
+}
+
+.mainNav{
+    display: flex;
+   /* font-family: 'roboto'; */
+    align-items: center;
+    
+    padding:0px 10px ;
+}
+
+.container{
+    overflow: hidden;
+}
+.mainContent{
+
+
+    height: 91vh;
+    width: 100%;
+  
+}
+
+.mainSadNav{
+    /* height: 100% !important;  */
+   
+    padding: 10px;
+    overflow-y: scroll;
+ overflow-x: hidden;
+  
+ 
+}
+.navpart{
+padding:0px;
+}
+.navpart > span{
+font-size: 110%;
+
+}
+.Navg{
+font-family: 'roboto', sans-serif;
+color: white;
+}
+.navpart >ul > li>a{
+    
+    padding: 4px 0 !important;
+    font-size: 16px;
+}
+.postinfo{
+  
+    display: none;
+    overflow-y : scroll;
+   
+    
+}
+/* #ShowHome{
+    display: block;
+} */
+
+.cardT{
+    
+/* margin: ; */
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+/* Scrolbar part */
+
+#style-1::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-1::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+#style-1::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #555;
+}
+
+#style-3::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}

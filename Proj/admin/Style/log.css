@@ -1,0 +1,61 @@
+.userform{
+    width: 50%; height: 300px; border-radius: 21px 21px 0 0;
+    
+}
+
+/*
+footer{
+  margin-top: 70px;
+    clear: both;
+    background-color: #494949;
+    color :rgb(0, 0, 0);
+   
+ }
+ .mainfooter {
+   
+    border-bottom: solid 3px rgb(138, 128, 128);
+    display: grid;
+  grid-template-columns:repeat(auto-fill,250px); 
+    column-gap: 50px;
+    
+  }
+  .footerItem1{grid-column: span 2;
+  } 
+  .footerItem1 >h3 ,.footerItem2 h3, .footerItem3 h3{
+ font-size: 22px;
+ margin-bottom: 10px;
+  }
+ .footerItem1 > p {
+   text-align: justify;
+   text-justify: inter-word;
+ 
+   font-size: 16px;
+   letter-spacing: 1.8px;
+   padding-bottom: 20px;
+  
+ }
+ 
+ .footerItem2 ul {
+ }
+ .footerItem2 ul li{ 
+   padding: 2px;
+   font-size:18px;
+   text-decoration: none;
+   text-decoration-line:;
+ }
+ .footerItem2 ul li a {
+
+
+ }
+ .footerItem3 h4 {
+   margin-top: -10px;
+   font-size: 18px;
+   font-weight: lighter;
+ } 
+ .postInfoFooter{
+ padding: 20px 10px;
+ }
+ .postInfoFooter span{
+   font-size: 16px;
+   letter-spacing: 1px;
+ }*/
